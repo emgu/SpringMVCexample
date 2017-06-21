@@ -15,7 +15,7 @@ public class Main {
 
         SimpleDriverDataSource dataSource = new SimpleDriverDataSource();
         dataSource.setDriver(new com.mysql.jdbc.Driver());
-        dataSource.setUrl("jdbc:mysql://webd.pl/krguznic_JacksDay");
+        dataSource.setUrl("jdbc:mysql://mn19.webd.pl/krguznic_JacksDay");
         dataSource.setUsername("krguznic_JacksDa");
         dataSource.setPassword("$nufk!n");
 
